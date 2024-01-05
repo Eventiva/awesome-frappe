@@ -2,7 +2,7 @@ repo_name: Eventiva/awesome-frappe
 report_id: 5d14bf51de6159cdd2666a23d3515941
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-27T19:51:43+00:00'
+timestamp: '2024-01-05T08:25:58+00:00'
 requested_by: sagar-bhogayata
 provider: github
 branch: main
@@ -16,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Eventiva/awesome-frappe
   detection_source: Repo Metadata
